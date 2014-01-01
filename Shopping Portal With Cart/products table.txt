@@ -1,0 +1,13 @@
+create table store.products(
+productid int(4) primary key,
+productname varchar(50),
+supplierid int(4),
+categoryid int(4),
+quantityperunit int(4),
+unitprice int(4),
+unitsinstock int(4),
+unitsonorder int(4),
+reorderlevel boolean,
+discontinued boolean,
+description varchar(500),
+imageurl varchar(150))

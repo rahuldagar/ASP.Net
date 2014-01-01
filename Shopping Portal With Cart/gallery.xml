@@ -1,0 +1,56 @@
+<tiltviewergallery>
+	<photos>
+		<photo imageurl="lap\appair.jpg" linkurl="http://www.google.com">
+			<title>Macbook Air</title>
+			<description>This beautifully crafted Notebook is another peice of brilliance from the Apple Labs. Thr price though is on the higher side starting 1.2 lakhs.</description>
+		</photo>
+		<photo imageurl="lap\handy.jpg" linkurl="http://www.google.com">
+			<title>Sony Handycam DCS12</title>
+			<description><![CDATA[This is a HTML text description. Supported tags are <b>bold</b>, <u>underline</u>, <i>italics</i>, linebreaks<br>and <font color="#ff0000" size="60">font tags</font>. Hyperlinks are not supported.]]></description>
+		</photo>
+		<photo imageurl="lap\inception.jpg" >
+			<title>Inception DVD</title>
+		<description>This image has no link button becasue the 'linkurl' property was removed from the photo tag</description>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\tag.jpg" linkurl="http://www.google.com" showFlipButton="false">
+			<title>Tag Heuer</title>
+			<description></description>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\joker.jpg" linkurl="http://www.google.com">
+			<title>The Dark Knight DVD</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\bold.jpg" linkurl="http://www.google.com">
+			<title>Blackberry BOLD</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\boom.jpg" linkurl="http://www.google.com">
+			<title>JVC MegaBoom</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\nano.jpg" linkurl="http://www.google.com">
+			<title>Image 8</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\ps3.jpg" linkurl="http://www.google.com">
+			<title>Sony PS3</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\itouch.jpg" linkurl="http://www.google.com">
+			<title>Apple iTouch</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\ipad.jpg" linkurl="http://www.google.com">
+			<title>Apple iPad</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\lostsym.jpg" linkurl="http://www.google.com">
+			<title>Lost Symbol : Dan Brown</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\canon.jpg" linkurl="http://www.google.com">
+			<title>Canon DSLR305</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project table\lap\photofr.jpg" linkurl="http://www.google.com">
+			<title>Digital Photoframe S13</title>			
+		</photo>	
+		<photo imageurl="D:\webtech project\project tablelap\pana.jpg" linkurl="http://www.google.com">
+			<title>Panasonic SuperPlasma</title>			
+		</photo>
+		<photo imageurl="D:\webtech project\project tablelap\sam.jpg" linkurl="http://www.google.com">
+			<title>Samsung S8500</title>
+		</photo>								
+	</photos>
+</tiltviewergallery>
